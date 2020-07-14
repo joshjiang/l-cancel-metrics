@@ -1,0 +1,1 @@
+This is a Jupyter notebook to analyze slippi files using (py-slippi)[https://github.com/hohav/py-slippi]
